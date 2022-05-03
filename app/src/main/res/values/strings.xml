@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MainAppComponents</string>
+    <string name="broadcast_receiver">Broadcast receiver</string>
+    <string name="service">Service</string>
+    <string name="content_provider">Content provider</string>
+    <string name="sending_broadcasts">Sending broadcasts</string>
+    <string name="send_my_broadcast">Send my broadcast</string>
+    <string name="receiving_broadcasts">Receiving broadcasts</string>
+    <string name="clear">Clear</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="send_data">Send data</string>
+    <string name="get_contact">Get contact</string>
+</resources>
